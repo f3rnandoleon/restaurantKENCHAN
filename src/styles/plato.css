@@ -1,0 +1,58 @@
+.plato_css{
+    display: flex;
+    text-align: center;
+    height: 140px;
+    color: black;
+    width: 100%;
+    background-image: url(src/assets/Rectangle2.png);
+    border-radius: 0;
+    border-top:2px solid rgba(212, 153, 43, 0.301);
+    border-bottom:2px solid rgba(212, 153, 43, 0.377);
+    background-color: transparent;
+    margin-top: 0px;
+}
+.plato_css :nth-child(1){
+    margin-left: 5px;
+    margin-top: 18px;
+    width: 40px;
+}
+.plato_css :nth-child(2) :nth-child(1){
+   font-size:small;
+   padding-left: 50px;
+}
+.plato_css :nth-child(3) :nth-child(1){
+    width: 70px;
+    height: 90px;
+    margin: 18px 10px 0 10px;
+}
+.plato_css2{
+    display: flex;
+    text-align: center;
+    height: 140px;
+    width: 100%;
+    background-image: url(src/assets/Rectangle2.png);
+    border-radius: 0;
+    border: none;
+    background-color: transparent;
+    color: black;
+    margin-top: 0px;
+}
+.plato_css2 :nth-child(1) :nth-child(1){
+    width: 70px;
+    height: 90px;
+    margin: 18px 10px 0 10px;
+}
+.plato_css2 :nth-child(2){
+   font-size:small;
+
+}
+.plato_css2 :nth-child(3) img{
+    width: 40px;
+    margin-right: 5px;
+    margin-top: 40px;
+}
+.description{
+    align-content: center;
+    font-size:small;
+    margin: 0 0 0 0;
+}

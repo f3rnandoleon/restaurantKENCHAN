@@ -1,0 +1,32 @@
+.fondo_info{
+    position: relative;
+    background-image: url(src/assets/fondo_informacion.png);
+    overflow: hidden;
+}
+
+.ubicacion_box{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: row-reverse;
+    margin-top: 0px;
+    margin-left: 30px;
+    background-color: transparent;
+    border: none;
+}
+.ubicacion_box :nth-child(1){
+    background-color: rgb(227, 218, 207);
+    height: 30px;
+    padding-top: 10px;
+
+}
+.ubicacion_box :nth-child(2){
+    height: 40px;
+}
+.info_conteiner{
+    color: white;
+    font-size: larger;
+    font-weight: 600px;
+    padding: 0 20px 20px 20px;
+    text-align: center;
+}

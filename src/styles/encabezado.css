@@ -1,0 +1,17 @@
+.encabezado{
+    background-color: #33333347;
+    border-radius: 15px 15px 0 0px;
+    margin-bottom: 10px;
+    height: 28px;
+    align-self: center;
+    color: white;
+    font-weight:600;
+    font-size: larger;
+    padding-top: 10px;
+}
+.image_atras{
+    position: absolute;
+    width: 40px;
+    left: 18px;
+    margin-top: -3px;
+}

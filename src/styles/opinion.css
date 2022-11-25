@@ -1,0 +1,36 @@
+.detalles_comentarios{
+    display: flex;
+}
+.detalles_comentarios :nth-child(1){
+    height: 18px;
+}
+.detalles_comentarios :nth-child(2){
+    margin-top: 8px;
+}
+.opinion_css{
+    display: flex;
+    background-color: white;
+    margin-bottom: 10px;
+    height: 120px;
+    font-size: smaller;
+    width: 300px;
+    margin-left: 10px;
+    border-radius: 15px;
+}
+.opinion_css :nth-child(2) :nth-child(1){
+   margin: 5px 0 5px 0;
+
+}
+.opinion_css :nth-child(2) :nth-child(3){
+    margin: 5px 0 5px 0;
+ 
+ }
+ .opinar{
+    background-color: white;
+    width: 300px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    border-radius: 10px;
+    height: 30px;
+    text-align: start;
+ }

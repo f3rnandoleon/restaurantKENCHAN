@@ -1,0 +1,199 @@
+{
+    "info": {
+        "count": 20,
+        "reseñas": 42
+    },
+    "results": [
+        {
+            "id": 1,
+            "numero": "src/assets/numeros/1 (1).png",
+            "name": "RAMEN",
+            "description": "Sopa de tallarin caseros con chashu (rollos de lomo de cerdo), huevo y espinaca, cebollita. ",
+            "image": "src/assets/menu/1.png",
+            "reseña": ["Arroz",{}],
+            "price": "45",
+            "time": "10-15min",
+            "ingredientes": [
+                "Arroz blanco",
+                "Carne Res",
+                "Aceite Vegetal",
+                "Vaina",
+                "Tallos de cebolla china o cebolla larga",
+                "Pimento rojo",
+                "Salsa soja"
+            ]
+        },
+        {
+            "id": 2,
+            "numero": "src/assets/numeros/2.png",
+            "name": "CHICKEN RAMEN",
+            "description": "Sopa de tallarin caseros con pollo, huevo y espinaca, cebollita. ",
+            "image": "src/assets/menu/2.png",
+            "reseña": "",
+            "price": "50",
+            "time": "20-25min",
+            "ingredientes": [
+                "Arroz blanco",
+                "Carne Res",
+                "Aceite Vegetal",
+                "Vaina",
+                "Tallos de cebolla china o cebolla larga",
+                "Pimento rojo",
+                "Salsa soja"
+            ]
+        },
+        {
+            "id": 3,
+            "numero": "src/assets/numeros/3.png",
+            "name": "MISO RAMEN",
+            "description": "Sopa de tallarin caseros sabor de miso (pasta de soya) con carne molida de cerdo, huevo, brote de soya y choclo. ",
+            "image": "src/assets/menu/3.png",
+            "reseña": "",
+            "price": "50",
+            "time": "12-15min",
+            "ingredientes": [
+                "Arroz blanco",
+                "Carne Res",
+                "Aceite Vegetal",
+                "Vaina",
+                "Tallos de cebolla china o cebolla larga",
+                "Pimento rojo",
+                "Salsa soja"
+            ]
+        },
+        {
+            "id": 4,
+            "numero": "src/assets/numeros/4.png",
+            "name": "SUTAMINA RAMEN",
+            "description": "Sopa de tallarin caseros con varias clases de verduras, carne de cerdo y huevo. ",
+            "image": "src/assets/menu/4.png",
+            "reseña": "",
+            "price": "59",
+            "time": "8-15min",
+            "ingredientes": [
+                "Arroz blanco",
+                "Carne Res",
+                "Aceite Vegetal",
+                "Vaina",
+                "Tallos de cebolla china o cebolla larga",
+                "Pimento rojo",
+                "Salsa soja"
+            ]
+        },
+        {
+            "id": 5,
+            "numero": "src/assets/numeros/5.png",
+            "name": "GYOZA",
+            "description": "Tipo empanaditas rellenas de carne de cerdo y verduras (Cocidas al vapor y doradas a la plancha).",
+            "image": "src/assets/menu/5.png",
+            "reseña": "",
+            "price": "31",
+            "time": "15-18min",
+            "ingredientes": [
+                "Arroz blanco",
+                "Carne Res",
+                "Aceite Vegetal",
+                "Vaina",
+                "Tallos de cebolla china o cebolla larga",
+                "Pimento rojo",
+                "Salsa soja"
+            ]
+        },
+        {
+            "id": 6,
+            "numero": "src/assets/numeros/6.png",
+            "name": "GYOZA TEISHOKU",
+            "description": "Gyoza (Tipo empanaditas rellenas de carne de cerdo y verduras), mini chahan (Arroz frito), sopa de verduras.",
+            "image": "src/assets/menu/6.png",
+            "reseña": "",
+            "price": "55",
+            "time": "10-20min",
+            "ingredientes": [
+                "Arroz blanco",
+                "Carne Res",
+                "Aceite Vegetal",
+                "Vaina",
+                "Tallos de cebolla china o cebolla larga",
+                "Pimento rojo",
+                "Salsa soja"
+            ]
+        },
+        {
+            "id": 7,
+            "numero": "src/assets/numeros/7.png",
+            "name": "TRUCHA SASHIMI TEISHOKU",
+            "description": "Sashimi de trucha cruda (del lago Titicaca), acompaña arroz  nimono y sopa de miso.",
+            "image": "src/assets/menu/7.png",
+            "reseña": "",
+            "price": "75",
+            "time": "20-30min",
+            "ingredientes": [
+                "Arroz blanco",
+                "Carne Res",
+                "Aceite Vegetal",
+                "Vaina",
+                "Tallos de cebolla china o cebolla larga",
+                "Pimento rojo",
+                "Salsa soja"
+            ]
+        },
+        {
+            "id": 8,
+            "numero": "src/assets/numeros/8.png",
+            "name": "FUJI SUSHI- SASHIMI MIXTO",
+            "description": "Niguiri sushi de trucha, camarón, sashimi de trucha y pulpo.",
+            "image": "src/assets/menu/8.png",
+            "reseña": "",
+            "price": "66",
+            "time": "18-25min",
+            "ingredientes": [
+                "Arroz blanco",
+                "Carne Res",
+                "Aceite Vegetal",
+                "Vaina",
+                "Tallos de cebolla china o cebolla larga",
+                "Pimento rojo",
+                "Salsa soja"
+            ]
+        },
+        {
+            "id": 9,
+            "numero": "src/assets/numeros/9.png",
+            "name": "KENCHAN CHICKEN TEISHOKU",
+            "description": "Muslo de pollo en salsa agridulce con ensalada de lechuga, tsukemono, sopa de miso.",
+            "image": "src/assets/menu/9.png",
+            "reseña": "",
+            "price": "59",
+            "time": "12-15min",
+            "ingredientes": [
+                "Arroz blanco",
+                "Carne Res",
+                "Aceite Vegetal",
+                "Vaina",
+                "Tallos de cebolla china o cebolla larga",
+                "Pimento rojo",
+                "Salsa soja"
+            ]
+        },
+        {
+            "id": 10,
+            "numero": "src/assets/numeros/10.png",
+            "name": "YAKITORI  焼き⿃",
+            "description": "Brochetas de pierna de pollo, Acompaña: Papa con mantequilla. ",
+            "image": "src/assets/menu/10.png",
+            "reseña": "",
+            "price": "30",
+            "time": "5-9min",
+            "ingredientes": [
+                "Arroz blanco",
+                "Carne Res",
+                "Aceite Vegetal",
+                "Vaina",
+                "Tallos de cebolla china o cebolla larga",
+                "Pimento rojo",
+                "Salsa soja"
+            ]
+        }
+        
+    ]
+}
